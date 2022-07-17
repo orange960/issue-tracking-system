@@ -1,0 +1,14 @@
+.addprojectbutton {
+    text-align: center;
+}
+
+.projecttitle {
+    color: cornflowerblue;
+    font-size: 50px;
+
+}
+
+Button {
+    /*background-color: rgba(0, 216, 255, 0.82);*/
+    /*border-style: none;*/
+}
